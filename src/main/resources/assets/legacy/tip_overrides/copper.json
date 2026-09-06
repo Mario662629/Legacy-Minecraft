@@ -17,7 +17,7 @@
       "tip": {"translate": "block.minecraft.copper_grate.tip"}
     },
     {
-      "blocks": ["waxed_copper_block","waxed_exposed_copper_block","waxed_weathered_copper_block","waxed_oxidized_copper_block","waxed_cut_copper","waxed_exposed_cut_copper","waxed_weathered_cut_copper","waxed_oxidized_cut_copper"],
+      "blocks": ["waxed_copper_block","waxed_exposed_copper","waxed_weathered_copper","waxed_oxidized_copper","waxed_cut_copper","waxed_exposed_cut_copper","waxed_weathered_cut_copper","waxed_oxidized_cut_copper"],
       "tip": {"translate": "block.minecraft.waxed_copper_block.tip"}
     },
     {
