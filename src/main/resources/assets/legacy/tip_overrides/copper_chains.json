@@ -1,0 +1,6 @@
+{
+  "overrides": {
+    "blocks": ["copper_chain","exposed_copper_chain","weathered_copper_chain","oxidized_copper_chain","waxed_copper_chain","waxed_exposed_copper_chain","waxed_weathered_copper_chain","waxed_oxidized_copper_chain"],
+    "tip": {"translate": "block.minecraft.copper_chain.tip"}
+  }
+}
