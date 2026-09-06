@@ -2213,7 +2213,7 @@
   "legacy.options.legacyFont.tooltip": "When enabled, the shadow of texts will be black and smaller.",
   "legacy.options.legacyFurnaceScreen": "Legacy Furnace Screen",
   "legacy.options.legacyGrindstoneScreen": "Legacy Grindstone Screen",
-  "legacy.options.legacyGui": "Legacy Gui",
+  "legacy.options.legacyGui": "Legacy GUI",
   "legacy.options.legacyHearts": "Legacy Health Flash",
   "legacy.options.legacyIntroAndReloading": "Legacy Intro & Reloading",
   "legacy.options.legacyInventoryScreen": "Legacy Inventory Screen",
